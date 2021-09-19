@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zwJbzHBRaISF/Y+LQQGJtg4vCnCP+74vDy3/kz9Gspmd41OpKY9O67C8pQ6xCeZ0/uN2HbSnKplm5Jd8blhsZw==",
+  "dgSpecHash": "/M9fS7/00EYdwqQ8HT27pj0OFumYhS83hJM2I1COOUnxMKs9RYS81HSHXYvD2lZZm96tmZjGiQkcn+sBrPzxKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adriano\\Desktop\\Programming\\Prj\\QuotesApi\\QuotesApi\\QuotesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adriano\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.16\\microsoft.aspnetcore.authentication.jwtbearer.3.1.16.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
@@ -18,6 +19,7 @@
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.0\\microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.xml\\2.2.0\\microsoft.aspnetcore.mvc.formatters.xml.2.2.0.nupkg.sha512",
+    "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.responsecaching\\2.2.0\\microsoft.aspnetcore.responsecaching.2.2.0.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.2.0\\microsoft.aspnetcore.responsecaching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.2.0\\microsoft.aspnetcore.routing.2.2.0.nupkg.sha512",
     "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",

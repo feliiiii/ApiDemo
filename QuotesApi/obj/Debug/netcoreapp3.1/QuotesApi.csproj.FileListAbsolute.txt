@@ -63,3 +63,4 @@ C:\Users\Adriano\Desktop\Programming\Prj\QuotesApi\QuotesApi\bin\Debug\netcoreap
 C:\Users\Adriano\Desktop\Programming\Prj\QuotesApi\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.csproj.CopyComplete
 C:\Users\Adriano\Desktop\Programming\Prj\QuotesApi\QuotesApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\Adriano\Desktop\Programming\Prj\QuotesApi\QuotesApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Adriano\Desktop\Programming\Prj\QuotesApi\QuotesApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
